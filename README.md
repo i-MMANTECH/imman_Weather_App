@@ -59,3 +59,5 @@ Feel free to contribute by submitting issues or pull requests. Make sure to foll
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 
+(C) Copyright imman_tech 2024
+
